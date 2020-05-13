@@ -6,5 +6,6 @@ const fs = require('fs');
 fs.writeFileSync('nodes.txt', 'My name is Farhad.');
 // add info to a existing file
 fs.appendFileSync('nodes.txt', 'I live in Dhaka');
-module.exports = ap
+// export const 
+module.exports = [const-name]
 ```
